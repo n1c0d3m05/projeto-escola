@@ -1,7 +1,7 @@
 TODO
 
 capitulos
-	[] -> Capitulo 3: Recife nos anos 90
+	[x] -> Capitulo 3: Recife nos anos 90 // tá quase
 	[] -> Capitulo 4: Nação Zumbi
 	[] -> Capitulo 5: Chico Science
 	[] -> Capitulo 6: A mudança dos anos 90
@@ -13,7 +13,8 @@ manguebeat e recife
 
 recife -> inicio dos anos 90: desigualdade e pobreza, uma das piores capitais do Brasil.
 recife -> lacuna na cultura -> movimentos armorial: iniciado por Ariano Suassuna,;
-													tinha objetivo de preservar a cultura no Brasil = estagnou a cultura e deixou grande lacuna na cultura, 
+													tinha objetivo de preservar a cultura no Brasil = estagnou a cultura e deixou grande lacuna na cultura,
+recife -> musical - maracatu  
 movimento armorial -> 	fundado em 1970, por Ariano Suassuna;
 						feito em Recife
 						
@@ -23,3 +24,7 @@ manguebeat -> icone era parabolica na lama = 	tecnologia na pobreza;
 
 
 
+links
+	video 1: https://www.youtube.com/watch?v=oFOHzXYXHNA&t=84s&pp=ygUKbWFuZ3VlYmVhdA%3D%3D
+	biografia chico_science: https://www.ebiografia.com/chico_science/
+	legado manguebeat: https://vermelho.org.br/coluna/qual-o-legado-do-manguebeat-30-anos-depois/
