@@ -2,8 +2,8 @@ TODO
 
 capitulos
 	[x] -> Capitulo 3: Recife nos anos 90 // tá quase
-	[] -> Capitulo 4: Nação Zumbi
-	[] -> Capitulo 5: Chico Science
+	[x] -> Capitulo 4: Nação Zumbi
+	[x] -> Capitulo 5: Chico Science
 	[] -> Capitulo 6: A mudança dos anos 90
 	[] -> Capitulo 7: Conclusão
 	[] -> Capitulo 8: Fontes
@@ -18,9 +18,12 @@ recife -> musical - maracatu
 movimento armorial -> 	fundado em 1970, por Ariano Suassuna;
 						feito em Recife
 						
-manguebeat -> icone era parabolica na lama = 	tecnologia na pobreza;
+manguebeat -> icone era parabolica na lama  = 	tecnologia na pobreza;
 												desigualdade;
 												
+												
+												
+nação zumbi -> bloco que ficava nos suburbios de Olinda										
 
 
 
